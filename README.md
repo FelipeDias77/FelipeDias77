@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on: Criação de dashboards no Power BI e análise de dados no MEC. Também estou desenvolvendo meu TCC sobre suporte à decisão clínica para a Doença de Parkinson e o artigo de Realidade Aumentada "Vogais Vivas".<br><br>👯 I’m looking to collaborate on: Projetos de análise de dados voltados para o setor público ou iniciativas educacionais.<br><br>🤝 I’m looking for help with: Refinamento de modelos de dados complexos e integração entre ferramentas de BI e sistemas web.<br><br>🌱 I’m currently learning: Tecnologias para desenvolvimento de Realidade Aumentada (como Unity e A-Frame) e técnicas avançadas de limpeza de dados no Excel e Power BI.<br><br>💬 Ask me about: Data analytics, dashboards, o curso de Tecnologia em Sistemas para Internet no IFB ou como é estagiar na área de educação.<br><br>⚡ Fun fact: Aplico a tecnologia para gerar impacto real nas áreas de saúde e educação. Atualmente, busco unir esses mundos através do meu TCC focado na Doença de Parkinson e no desenvolvimento de projetos de alfabetização com Realidade Aumentada. Além disso, dediquei bastante tempo ao aperfeiçoamento de idiomas, acumulando mais de 700 horas de curso de inglês.
+# About Me:
+🔭 **I'm currently working on**: Criação de dashboards no Power BI e análise de dados no MEC. Também estou desenvolvendo meu TCC sobre suporte à decisão clínica para a Doença de Parkinson e o projeto de Realidade Aumentada "Vogais Vivas".
+
+🚜 **AgroTech**: Plataforma de compra e venda para o agronegócio familiar. Projeto desenvolvido para o **Projeto Integrador do IFB**, tendo o **INCRA** como solicitante para conectar pequenos produtores ao mercado.
+
+👯 **I’m looking to collaborate on**: Projetos de análise de dados voltados para o setor público ou iniciativas educacionais.
+
+🤝 **I’m looking for help with**: Refinamento de modelos de dados complexos e integração entre ferramentas de BI e sistemas web.
+
+🌱 **I’m currently learning**: Tecnologias para desenvolvimento de Realidade Aumentada (como Unity e A-Frame) e técnicas avançadas de limpeza de dados no Excel e Power BI.
+
+💬 **Ask me about**: Data analytics, dashboards, o curso de Tecnologia em Sistemas para Internet no IFB ou como é estagiar na área de educação.
+
+⚡ **Fun fact**: Sou apaixonado por aplicar a tecnologia para gerar impacto real nas áreas de saúde e educação. Atualmente, busco unir esses mundos através do meu TCC e projetos de alfabetização com RA. Além disso, completei mais de 700 horas de curso de inglês.
 
 
 ## 🌐 Socials:
