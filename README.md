@@ -1,21 +1,23 @@
-# About Me:
-🔭 **I'm currently working on**: Criação de dashboards no Power BI e análise de dados no MEC. Também estou desenvolvendo meu TCC sobre suporte à decisão clínica para a Doença de Parkinson e o projeto de Realidade Aumentada "Vogais Vivas".
+**Felipe Dias Santana**
+Analista de Dados | Engenheiro de Dados Júnior
 
-🚜 **AgroTech**: Plataforma de compra e venda para o agronegócio familiar. Projeto desenvolvido para o **Projeto Integrador do IFB**, tendo o **INCRA** como solicitante para conectar pequenos produtores ao mercado.
+Profissional focado em transformar dados complexos em informações estratégicas para apoiar a tomada de decisão. Tenho experiência prática no setor público com estruturação de dados governamentais, processos de ETL, modelagem relacional e desenvolvimento de dashboards. 
 
-👯 **I’m looking to collaborate on**: Projetos de análise de dados voltados para o setor público ou iniciativas educacionais.
+**Foco Atual e Evolução Contínua**
+* **Atuação Profissional:** Estagiário de Dados no Ministério da Educação (MEC), conduzindo processos de ETL e desenvolvimento de painéis no Power BI para o sistema CadEJA.
+* **Trilha de Estudos (Big Data & Cloud):** Após concluir o desenvolvimento avançado com MongoDB, iniciei o curso *PySpark in Action: Hands-On Data Processing* (Coursera).
+* **Próxima Meta:** Preparação para a certificação Microsoft DP-700 (Data Engineering).
+* **Acadêmico:** Graduando em Tecnologia em Sistemas para Internet no IFB (Dez/2026). Desenvolvendo meu TCC (Painel Parkinson), um sistema de suporte à decisão clínica utilizando Python e PostgreSQL.
 
-🤝 **I’m looking for help with**: Refinamento de modelos de dados complexos e integração entre ferramentas de BI e sistemas web.
+**Projetos em Destaque**
+* **[Trilha MongoDB & Python](https://github.com/FelipeDias77/trilha-mongodb-python):** Implementação de banco NoSQL em nuvem, pipelines de agregação e Atlas Search.
+* **Painel Parkinson:** Conversão de painel web para desktop focado em saúde, estruturado no GPCA-IFB.
+* **AgroTech:** Estruturação de banco de dados e modelagem relacional para plataforma focada na agricultura familiar, em parceria com o INCRA.
+* **Vogais Vivas:** Plataforma educacional desenvolvida em Unity/Vuforia com apresentação de destaque no III Simpósio de Integração, Inovação e Tecnologia.
 
-🌱 **I’m currently learning**: Tecnologias para desenvolvimento de Realidade Aumentada (como Unity e A-Frame) e técnicas avançadas de limpeza de dados no Excel e Power BI.
+**Stack Tecnológico**
+* **Engenharia e Banco de Dados:** SQL (PostgreSQL, MySQL), MongoDB, PySpark, Processos de ETL, Microsoft Azure.
+* **Analytics & BI:** Power BI, DAX, Power Query, Excel Avançado.
+* **Desenvolvimento:** Python (Flask), Java, JavaScript (VueJS, Electron.js), Git, GitHub.
 
-💬 **Ask me about**: Data analytics, dashboards, o curso de Tecnologia em Sistemas para Internet no IFB ou como é estagiar na área de educação.
-
-⚡ **Fun fact**: Sou apaixonado por aplicar a tecnologia para gerar impacto real nas áreas de saúde e educação. Atualmente, busco unir esses mundos através do meu TCC e projetos de alfabetização com RA. Além disso, completei mais de 700 horas de curso de inglês.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ifelipe_dias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-dias-santana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felipediassantana@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+> 🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/felipe-dias-santana) | ✉️ felipediassantana@gmail.com
