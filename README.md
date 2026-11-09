@@ -1,23 +1,24 @@
-**Felipe Dias Santana**
-Analista de Dados | Engenheiro de Dados Júnior
+# Felipe Dias Santana
+**Analista de Dados Júnior** | Power BI • SQL • Python • ETL
 
-Profissional focado em transformar dados complexos em informações estratégicas para apoiar a tomada de decisão. Tenho experiência prática no setor público com estruturação de dados governamentais, processos de ETL, modelagem relacional e desenvolvimento de dashboards. 
+Transformo dados em informação clara para apoiar decisões. Tenho experiência no setor público com ETL, modelagem relacional e dashboards, e venho aprofundando minha base em engenharia de dados (PySpark, Databricks, MongoDB).
 
-**Foco Atual e Evolução Contínua**
-* **Atuação Profissional:** Estagiário de Dados no Ministério da Educação (MEC), conduzindo processos de ETL e desenvolvimento de painéis no Power BI para o sistema CadEJA.
-* **Trilha de Estudos (Big Data & Cloud):** Após concluir o desenvolvimento avançado com MongoDB, iniciei o curso *PySpark in Action: Hands-On Data Processing* (Coursera).
-* **Próxima Meta:** Preparação para a certificação Microsoft DP-700 (Data Engineering).
-* **Acadêmico:** Graduando em Tecnologia em Sistemas para Internet no IFB (Dez/2026). Desenvolvendo meu TCC (Painel Parkinson), um sistema de suporte à decisão clínica utilizando Python e PostgreSQL.
+## Foco atual
+- **Trabalho:** Estagiário de Dados no Ministério da Educação (MEC), com ETL em Power Query, dashboards em Power BI e levantamento de requisitos para o sistema CadEJA.
+- **Estudo:** Especialização em PySpark (Coursera), em andamento.
+- **Formação:** Graduando em Tecnologia em Sistemas para Internet no IFB (conclusão em dez/2026).
 
-**Projetos em Destaque**
-* **[Trilha MongoDB & Python](https://github.com/FelipeDias77/trilha-mongodb-python):** Implementação de banco NoSQL em nuvem, pipelines de agregação e Atlas Search.
-* **Painel Parkinson:** Conversão de painel web para desktop focado em saúde, estruturado no GPCA-IFB.
-* **AgroTech:** Estruturação de banco de dados e modelagem relacional para plataforma focada na agricultura familiar, em parceria com o INCRA.
-* **Vogais Vivas:** Plataforma educacional desenvolvida em Unity/Vuforia com apresentação de destaque no III Simpósio de Integração, Inovação e Tecnologia.
+## Projetos em destaque
+- [VoeBem Analytics (ANAC)](https://github.com/FelipeDias77/engenhariadedados_ia_alura): pipeline no Databricks com Arquitetura Medalhão, Delta Live Tables, Data Quality e modelagem dimensional, com Databricks Genie para consultas em linguagem natural.
+- [Trilha MongoDB e Python](https://github.com/FelipeDias77/trilha-mongodb-python): NoSQL em nuvem com MongoDB Atlas, pipelines de agregação e Atlas Search.
+- **Painel Parkinson (TCC):** painel de apoio à decisão clínica em Python e PostgreSQL, desenvolvido no GPCA-IFB. Apresentado no 32º CIC-UnB e no 23º CIC-DF. *Repositório privado (projeto de pesquisa).*
+- [AgroTech](https://github.com/FelipeDias77/Agrotech-INCRA): e-commerce para agricultura familiar em parceria com o INCRA (PHP, MySQL, HTML, CSS e JavaScript), com atuação no banco de dados e no front-end. Projeto em equipe, pausado.
+- **Vogais Vivas:** plataforma de Realidade Aumentada (Unity/Vuforia) para letramento infantil, desenvolvida no GCAE-IFB. *Repositório privado (projeto de pesquisa).*
 
-**Stack Tecnológico**
-* **Engenharia e Banco de Dados:** SQL (PostgreSQL, MySQL), MongoDB, PySpark, Processos de ETL, Microsoft Azure.
-* **Analytics & BI:** Power BI, DAX, Power Query, Excel Avançado.
-* **Desenvolvimento:** Python (Flask), Java, JavaScript (VueJS, Electron.js), Git, GitHub.
+## Stack
+- **Dados e BI:** Power BI, DAX, Power Query, SQL (PostgreSQL, MySQL), Excel Avançado
+- **Engenharia de dados:** PySpark, Databricks, Delta Lake, MongoDB, Microsoft Azure, ETL
+- **Desenvolvimento:** Python (Flask), PHP, Java, JavaScript (VueJS, Electron.js), Git e GitHub
 
-> 🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/felipe-dias-santana) | ✉️ felipediassantana@gmail.com
+## Contato
+[LinkedIn](https://www.linkedin.com/in/felipe-dias-santana/) | felipediassantana@gmail.com
